@@ -1,1 +1,3 @@
 My new git repository 1
+i am updating my repository 1
+updating sec time
